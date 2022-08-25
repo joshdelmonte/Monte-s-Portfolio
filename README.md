@@ -20,10 +20,18 @@
 - [Features](#features)
 ## Installation
 
--Go to https://github.com/joshdelmonte/MONTE-S-PORTFOLIO and download the .
+1. Go to https://github.com/joshdelmonte/MONTE-S-PORTFOLIO and clone the repository.
+    EX: 
+    t![](assets/assets/images/Github-capture.jpeg)
+2. Type the following command in git bash:
 
+    ~"git clone (pasted url from git repository)"
+
+3. Access your desktop downloads and it should be in recent your recent downloads.
+
+4. Open in whatever code editor you are using (i.e. VS Code, Intellij Idea, etc.)
 -Feel free to modify however you wish via Visual Studio or whatever GUI you prefer.
-<!-- Add a link with the real URL so they can view the code in console. -->
+
 -Here is the link to the page if you'd like to observe as well:
 <!-- LINK! YOU'VE GOT TO SAVE THE PRINCESS ZELDA! -->
 ## Usage
@@ -34,7 +42,7 @@
 
 ## Credits
 
--All credits go to The DU Bootcamp resources their instructors and assistants for allowing me to bring this to you.
+-All credits go to The DU Bootcamp resources their instructors and assistants for allowing me to bring this to you. The devotion of hours to works such as this with all it's obstacles are learning opportunities and hurtles to overcome and further solidify skills.
 
 ## License
 

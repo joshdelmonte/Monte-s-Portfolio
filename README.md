@@ -34,6 +34,7 @@
 
 -Here is the link to the page if you'd like to observe as well:
 <!-- LINK! YOU'VE GOT TO SAVE THE PRINCESS ZELDA! -->
+"https://joshdelmonte.github.io/Monte-s-Portfolio/"
 ## Usage
 
 -The links beneath the header of the page allow you immediate focus to that selected section of the page

@@ -47,7 +47,10 @@
     transition: .3s;
     cursor: pointer;
   }
-  
+  section{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 50%;
+  }
   button{
     border: none;
     background: black;

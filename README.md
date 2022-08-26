@@ -76,3 +76,10 @@ SOFTWARE.
 -When you want to go to a certain part of the page, click one of the bullets in the navigation buttons beneath the header of the page.
 
 -The contact area directly links to facebook, linkedin, and github accounts respectively.
+
+
+## URLS
+-Deployed URL
+"https://joshdelmonte.github.io/Monte-s-Portfolio/"
+-Github URL
+"https://github.com/joshdelmonte/Monte-s-Portfolio.git"
